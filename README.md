@@ -1,16 +1,22 @@
-## Hi there 👋
+## setup
+user.name=Justin Keya
+user.email=justinpk561@gmail.com
 
-<!--
-**justinpk561-cyber/justinpk561-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Justin Keya
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning learning computer programming.
+- I'm interested in AI, web development, and software development
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- programming
+- HTML/CSS
+
+## Current Projects
+- [IYF Weekend Academy](http://github.com/Chacha-A-Chacha//IYF-weekend_academy) — learning programming, Git ,Github,
+-  and software development
+
+## How to Reach Me
+- Email: justinpk561@gmail.com
