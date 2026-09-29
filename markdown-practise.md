@@ -3,8 +3,8 @@ Exercise 1 — Headings: Create a heading level 2 that says "My Learning Goals" 
 <h3>This Semester</h3>
 
 Exercise 2 — Text formatting: Write a sentence that includes a bold word, an italic word, and an inline code snippet.
-**Cats have nine lives, but mine *spooky*
-died after one bad ride'poisoned'
+**Cats have nine lives**, but mine *spooky*
+died after one bad ride 'poisoned'.
 
 Exercise 3 — Links: Create a link to your GitHub profile page and a link to any website you find useful.
 [my github profile](https://github.com/justinpk561-cyber)
