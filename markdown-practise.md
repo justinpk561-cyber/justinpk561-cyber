@@ -4,17 +4,23 @@ Exercise 1 — Headings: Create a heading level 2 that says "My Learning Goals" 
 
 Exercise 2 — Text formatting: Write a sentence that includes a bold word, an italic word, and an inline code snippet.
 **Cats have nine lives**, but mine *spooky*
-died after one bad ride 'poisoned'.
+died after one bad ride`poisoned`.
 
 Exercise 3 — Links: Create a link to your GitHub profile page and a link to any website you find useful.
 [my github profile](https://github.com/justinpk561-cyber)
-
+[cool ultra clear hd Wallpaper]
+(https://unsplash.com)
 Exercise 4 — Lists: Create an unordered list of 3 things you want to learn. Then create an ordered list of the steps to make a commit in Git (hint: there are at least 3 steps).
 <ul>
 I'd like to learn <li>web development full-stack</li>
 <li>software development</li>
 <li>html5 & css3</li>
-
+steps to take when making a commit in git 
+  <ol>
+    <li>press commit changes</li>
+    <li>write commit message</li>
+    <li>press commit changes and wait a few seconds</li>
+  </ol>
 Exercise 5 — Table: Create a table with 3 columns (Tool, Purpose, Link) and at least 2 rows listing tools you use or want to learn.
 | Tool | Purpose | Link |
 |------|---------|------|
