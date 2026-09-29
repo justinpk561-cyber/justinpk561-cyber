@@ -1,5 +1,5 @@
 Exercise 1 — Headings: Create a heading level 2 that says "My Learning Goals" and a heading level 3 that says "This Semester".
-<h2>My Learning Goal<\h2>
+<h2>My Learning Goal</h2>
 <h3>This Semester</h3>
 
 Exercise 2 — Text formatting: Write a sentence that includes a bold word, an italic word, and an inline code snippet.
@@ -7,7 +7,7 @@ Exercise 2 — Text formatting: Write a sentence that includes a bold word, an i
 died after one bad ride'poisoned'
 
 Exercise 3 — Links: Create a link to your GitHub profile page and a link to any website you find useful.
-[my github profile](https://github.com/justinpk561-cyber.)
+[my github profile](https://github.com/justinpk561-cyber)
 
 Exercise 4 — Lists: Create an unordered list of 3 things you want to learn. Then create an ordered list of the steps to make a commit in Git (hint: there are at least 3 steps).
 <ul>
