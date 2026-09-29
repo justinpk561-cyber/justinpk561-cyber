@@ -1,6 +1,6 @@
 Exercise 1 — Headings: Create a heading level 2 that says "My Learning Goals" and a heading level 3 that says "This Semester".
-##My Learning Goals
-###This Semester
+##My Learning Goals##
+###This Semester###
 
 Exercise 2 — Text formatting: Write a sentence that includes a bold word, an italic word, and an inline code snippet.
 **Cats have nine lives, but mine *spooky*
