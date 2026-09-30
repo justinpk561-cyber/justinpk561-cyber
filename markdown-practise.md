@@ -1,3 +1,4 @@
+<body>
 Exercise 1 — Headings:
 <h2>My Learning Goal</h2>
 <h3>This Semester</h3>
@@ -32,12 +33,12 @@ steps to take when making a commit in git
 | Github | for storing codes and projects | (https://github.com |
 
 <h2>Exercise 6 — Task list:</h2> Create a task list with at least 4 items related to your learning goals. Check off the ones you have already completed.
--[×] learn html basics
+-[×]learn html basics
 -[×]learn git and github
 -[ ]learn css mastery 
 -[ ]learn JavaScript 
 
-<h2>Exercise 7 — Code block:</h2> Write a code block in any language (or copy an example from the syntax reference above). Make sure to specify the language after the triple backticks for syntax highlighting.
+<h2>Exercise 7 — Code block:</h2>
 ```python
 print("Hello, world!")
 ```
@@ -48,3 +49,4 @@ print("Hello, world!")
 #Bonus — Put it all together: At the end of the file, write a mini "About Me" section that uses at least 5 different Markdown features from the exercises above.
 
 #About Me
+</body>
