@@ -39,11 +39,11 @@ steps to take when making a commit in git
 
 <h2>Exercise 7 — Code block:</h2> Write a code block in any language (or copy an example from the syntax reference above). Make sure to specify the language after the triple backticks for syntax highlighting.
 ```python
-print=("hello world!")
+print("Hello, world!")
 ```
 
-<h2>Exercise 8 — Blockquote:</h2> Write a blockquote with a piece of advice, a quote you like, or something you learned recently.
->once said. We suffer more in imagination than reality
+<h2>Exercise 8 — Blockquote:</h2>
+> Carl Yung once said. We suffer more in imagination than reality.
 
 #Bonus — Put it all together: At the end of the file, write a mini "About Me" section that uses at least 5 different Markdown features from the exercises above.
 
