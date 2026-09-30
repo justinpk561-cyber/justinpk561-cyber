@@ -1,6 +1,6 @@
 <body>
 Exercise 1 — Headings:
-<h2>My Learning Goal</h2>
+<h2>My Learning Goal<
 <h3>This Semester</h3>
 
 <h2>Exercise 2 — Text formatting:</h2>
