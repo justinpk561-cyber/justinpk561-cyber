@@ -1,6 +1,5 @@
-<body>
 Exercise 1 — Headings:
-<h2>My Learning Goal<
+<h2>My Learning Goal</h2>
 <h3>This Semester</h3>
 
 <h2>Exercise 2 — Text formatting:</h2>
@@ -27,9 +26,9 @@ steps to take when making a commit in git
 
 <h2>Exercise 5 — Table:</h2> Create a table with 3 columns (Tool, Purpose, Link) and at least 2 rows listing tools you use or want to learn.
 | Tool | Purpose | Link |
-|------|---------|------|
+|:------ |:--------- |:------ |
 | MDN | provide coding spaces | (https://https://developer.mozilla.org/en-US/play|
-|-----|-----------------------|------------------|
+|:-----|:----------------------- |:------------------ |
 | Github | for storing codes and projects | (https://github.com |
 
 <h2>Exercise 6 — Task list:</h2> Create a task list with at least 4 items related to your learning goals. Check off the ones you have already completed.
