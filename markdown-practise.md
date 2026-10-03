@@ -24,13 +24,13 @@ steps to take when making a commit in git
     <li>press commit changes and wait a few seconds</li>
   </ol>
 
-### Exercise 5 — Table: Create a table with 3 columns (Tool, Purpose, Link) and at least 2 rows listing tools you use or want to learn.
+### Exercise 5 — Table:
 | Tool | Purpose | Link |
 |:--- |:--- |:--- |
 | MDN | provide coding spaces | (https://https://developer.mozilla.org/en-US/play|
 | Github | for storing codes and projects | (https://github.com |
 
-### Exercise 6 — Task list: Create a task list with at least 4 items related to your learning goals. Check off the ones you have already completed.
+### Exercise 6 — Task list:
 
 - [x] learn html basics
 - [x] learn git and github
@@ -44,4 +44,5 @@ print("Hello, world!")
 ```
 
 ### Exercise 8 — Blockquote:
+
 > "Carl Yung once said. We suffer more in imagination than reality."
