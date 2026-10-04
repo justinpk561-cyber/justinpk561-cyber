@@ -7,8 +7,10 @@
 died after one bad ride`poisoned`.
 
 ### Exercise 3 — Links:
-[my github profile](https://github.com/justinpk561-cyber)
-[cool ultra clear hd Wallpapers](https://unsplash.com)
+<ul>
+<li>[my github profile](https://github.com/justinpk561-cyber)</li>
+[cool ultra clear hd Wallpapers](https://unsplash.com)</ul>
+
 ### Exercise 4 — Lists:
 <ul>
 I'd like to learn 
@@ -26,8 +28,8 @@ steps to take when making a commit in git
 ### Exercise 5 — Table:
 | Tool | Purpose | Link |
 |:--- |:--- |:--- |
-| MDN | provide coding spaces | (https://https://developer.mozilla.org/en-US/play|
-| Github | for storing codes and projects | (https://github.com |
+| MDN | provide coding spaces | [MDN LINK](https://https://developer.mozilla.org/en-US/play)|
+| Github | for storing codes and projects | [Github Link](https://github.com) |
 
 ### Exercise 6 — Task list:
 
