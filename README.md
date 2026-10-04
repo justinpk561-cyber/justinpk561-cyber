@@ -23,4 +23,4 @@ user.email=justinpk561@gmail.com
 
 ## links
 - [my website](justinpk561-cyber.github.io)
-- [markdown practise](https://github.com/justinpk561-cyber/justinpk561/blob/main/markdown-practise.md)
+- [markdown practise](https://github.com/justinpk561-cyber/justinpk561-cyber/blob/main/markdown-practise.md)
