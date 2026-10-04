@@ -8,8 +8,7 @@ died after one bad ride`poisoned`.
 
 ### Exercise 3 — Links:
 [my github profile](https://github.com/justinpk561-cyber)
-[cool ultra clear hd Wallpapers]
-(https://unsplash.com)
+[cool ultra clear hd Wallpapers](https://unsplash.com)
 ### Exercise 4 — Lists:
 <ul>
 I'd like to learn 
